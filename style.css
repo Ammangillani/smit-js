@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background:linear-gradient(to right,yellow,red , rgb(59, 4, 200)) ;
+}
+
+.color{
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+
+}
+.dir1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.color{
+    border: 2px solid yellow;
+    width: 50%;
+    color: aliceblue;
+    background-color: black;
+    text-align: center;
+    font-size: 40px;
+}
