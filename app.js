@@ -1,4 +1,3 @@
-
 // ============================ANSWER NO 1====================
 
 // alert("JAVASCRIPT alert")
@@ -85,12 +84,15 @@
 
 //===========answer 7==============
 
-
 // let book = " a smarter way to learn JavaScript";
 // alert(`I am trying to learn from  book${book}`)
 
 //===========answer 7==============
 
+// let book = " a smarter way to learn JavaScript";
+// alert(`I am trying to learn from  book${book}`)
+
+//===========answer 7==============
 
 //===========answer 8==============
 // let a = document.getElementById("para")
@@ -164,7 +166,6 @@
 // let d= document.getElementById("keyword")
 // d.textContent="Variable names should not be JS keywords"
 // answer no 3
-
 
 // chapter 5
 // ------------------------------------------------------------------------------------------------------------------
@@ -828,10 +829,6 @@
 // answer no 7
 // chapter 12---13
 
-
-
-
-
 // chapter 14--16
 //-----------------------------------------------------------------------------------------------------------------------------
 // answer 1---7
@@ -864,14 +861,13 @@
 
 // answer no 8
 
-
 // answer no 9
 // let a = ["green"]
 // let addbeginnigcolor = prompt("which color you want to add at the begininng of this")
 //  a.unshift(addbeginnigcolor)
 // let lastcolor = prompt("what color you want to add at the last of this array")
 // a.push(lastcolor)
-// console.log(a)  
+// console.log(a)
 // a.unshift("brown","margenta")
 // console.log(a)
 // a.shift()
@@ -896,7 +892,6 @@
 
 // answer no 10
 
-
 // answer no 11
 // let cities = ["karachi","lahore","multan","islamabad","Peshawar"]
 // document.write(`CitiesList: ${cities}<br>`)
@@ -908,7 +903,6 @@
 // document.write(`Array :${arr}<br>`)
 // document.write(`String :${arr[0] + arr[1] + arr[2] + arr[3]}`)
 // answer no 12
-
 
 // answer no 13 & 14
 // let a = [" keyboard "," mouse "," monitor "]
@@ -927,8 +921,3 @@
 //     }
 // }
 // generateDropdown();
-
-
-
-
-
